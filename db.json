@@ -235,6 +235,126 @@
         }
       }
     ],
-    "keranjang": [],
+    "keranjang": [
+        {
+    "jumlah": 1,
+    "total_harga": 36000,
+    "product": {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Beer Dip",
+      "harga": 36000,
+      "is_ready": true,
+      "gambar": "beer-dip.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Appetizer"
+      }
+    },
+    "id": 1
+  },
+  {
+    "jumlah": 1,
+    "total_harga": 30000,
+    "product": {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Anitpasti Bites",
+      "harga": 30000,
+      "is_ready": true,
+      "gambar": "anitpasti-bites.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Appetizer"
+      }
+    },
+    "id": 2
+  },
+  {
+    "jumlah": 1,
+    "total_harga": 32000,
+    "product": {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Mini Pizzas",
+      "harga": 32000,
+      "is_ready": true,
+      "gambar": "mini-pizzas.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Appetizer"
+      }
+    },
+    "id": 3
+  },
+  {
+    "jumlah": 3,
+    "total_harga": 144000,
+    "product": {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Crockpot 7 Layer Bean Dip",
+      "harga": 48000,
+      "is_ready": true,
+      "gambar": "crockpot-7-layer-bean-dip.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Appetizer"
+      }
+    },
+    "id": 4
+  },
+  {
+    "jumlah": 1,
+    "total_harga": 53000,
+    "product": {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Cauliflower Bolognese",
+      "harga": 53000,
+      "is_ready": true,
+      "gambar": "cauliflower-bolognese.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Main Course"
+      }
+    },
+    "id": 5
+  },
+  {
+    "jumlah": 1,
+    "total_harga": 20000,
+    "product": {
+      "id": 15,
+      "kode": "K-011",
+      "nama": "Coffe Late",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": "coffe-late.jpg",
+      "category": {
+        "id": 4,
+        "nama": "Drink"
+      }
+    },
+    "id": 6
+  },
+  {
+    "jumlah": 1,
+    "total_harga": 17000,
+    "product": {
+      "id": 16,
+      "kode": "K-012",
+      "nama": "Ice Lemon Tea",
+      "harga": 17000,
+      "is_ready": true,
+      "gambar": "es-jeruk.jpg",
+      "category": {
+        "id": 4,
+        "nama": "Drink"
+      }
+    },
+    "id": 7
+  }
+    ],
     "pesanan": []
   }
